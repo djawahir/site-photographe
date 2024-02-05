@@ -3,4 +3,4 @@
 
 ## un theme completement personnalisé en partant de zéro
 
-### Thème enfant du projet wordpress personnalisé
+### theme enfant du projet wordpress personnalisé 
