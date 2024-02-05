@@ -1,7 +1,6 @@
-# Projet 11
+# Projet 11: Créez un site WordPress sur mesure pour une photographe freelance
 
-## Créez un site WordPress complexe pour une photographe freelance
 
-## Créer un theme complet personnalisé
+## un theme completement personnalisé en partant de zéro
 
 ### Thème enfant du projet wordpress personnalisé
